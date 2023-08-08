@@ -27,5 +27,5 @@ op1->op2->op3->op4->op5
 
 Запуск программы:
 ```bash
-streamlit run /home/ceedy/ml/streamlit_hw.py --server.maxUploadSize 1000
+streamlit run streamlit_hw.py --server.maxUploadSize 1000
 ```
